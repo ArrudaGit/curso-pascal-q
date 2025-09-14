@@ -6,6 +6,13 @@
 }  
 program exercicio5;
 
-begin:
+var
+lado, areaQuadrado: real;
 
+begin
+    write('Digite o valor para calculo da área do quadrado: ');
+    readln(lado);
+    
+    areaQuadrado := lado * lado;
+    writeln('A área total do quadrado é: ', areaQuadrado:0:2);
 end.
