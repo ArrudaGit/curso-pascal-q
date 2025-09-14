@@ -4,7 +4,7 @@
   Data da criacao: YYYY-MM-DD
   Criado por: @programacaomentoria
 }  
-program ex_base; // ALTERADO 
+program ex_base; // ALTERADO
 	//lugar no programa onde declaro variaveis
 	var
 		// nome_variavel: tipo_variavel;
