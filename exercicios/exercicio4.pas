@@ -13,5 +13,5 @@ begin
     readln(num);
     
     quadradoNumero := num * num;
-    writeln('O ', num:0:2, ' elevado ao quadrado é: ', quadradoNumero:0:2);
+    writeln('O quadrado do número ', num:0:2, ' é: ', quadradoNumero:0:2);
 end.
