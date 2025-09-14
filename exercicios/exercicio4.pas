@@ -5,6 +5,13 @@
 }  
 program exercicio4;
 
-begin:
+var
+lado, quadrado: real;
 
+begin
+    write('Digite o valor para calculo do quadrado: ');
+    readln(lado);
+    
+    quadrado := lado * lado;
+    writeln('O quadrado do número ', lado:0:2, ' é: ', quadrado:0:2);
 end.
