@@ -6,12 +6,12 @@
 program exercicio4;
 
 var
-lado, quadrado: real;
+num, quadradoNumero: real;
 
 begin
-    write('Digite o valor para calculo do quadrado: ');
-    readln(lado);
+    write('Digite o valor para calculo do quadrado de um número: ');
+    readln(num);
     
-    quadrado := lado * lado;
-    writeln('O quadrado do número ', lado:0:2, ' é: ', quadrado:0:2);
+    quadradoNumero := num * num;
+    writeln('O ', num:0:2, ' elevado ao quadrado é: ', quadradoNumero:0:2);
 end.
