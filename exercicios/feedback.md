@@ -1,0 +1,11 @@
+Feedback dos exercícios
+- exercicio1.pas -- OK
+- exercicio2.pas -- OK
+  - Apesar de compilar existe um end. a mais na linha 20
+- exercicio3.pas -- OK
+  - Funciona perfeito. Uma observação. Para obter o "efeito" de pular linha, use o caractere #13#10 desta forma no writeln --> writeln(#13#10,'Aluno: ', nome);
+- exercicio4.pas -- OK
+- exercicio5.pas -- OK
+- exercicio6.pas -- OK
+- exercicio7.pas -- OK
+- exercicio8.pas -- NAO FEITO AINDA
