@@ -16,5 +16,3 @@ begin
     readln(idade);
     writeln('Prazer em te conhecer, ', nome, '. Você tem ', idade, ' anos.');
 end.
-    
-end.
