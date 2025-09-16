@@ -24,8 +24,7 @@ begin
     
 media := (nota1 + nota2 + nota3 + nota4) / 4;
 
-    writeln('');
-    writeln('Aluno: ', nome);
+    writeln(#13#10,'Aluno: ', nome);
     writeln('Média final: ', media:0:2); //0:2 calculo final com duas casas decimais
 end.
 
